@@ -1,0 +1,29 @@
+# Darren's zsh plugins 24/07/2020
+
+# common basic
+mafredri/zsh-async
+b4b4r07/enhancd
+MichaelAquilina/zsh-you-should-use
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
+zsh-users/zsh-autosuggestions
+
+# ohmyzsh
+robbyrussell/oh-my-zsh path:plugins/common-aliases
+robbyrussell/oh-my-zsh path:plugins/osx
+robbyrussell/oh-my-zsh path:plugins/git
+robbyrussell/oh-my-zsh path:plugins/sudo
+robbyrussell/oh-my-zsh path:plugins/bundler
+robbyrussell/oh-my-zsh path:plugins/bazel
+robbyrussell/oh-my-zsh path:plugins/xcode
+
+# code review
+xorkevin/code-review-zsh
+
+# for fun
+be99inner/be99inner-zsh-plugins path:plugins/gitmoji
+
+# Theme!
+romkatv/powerlevel10k
+# "themes/minimal"
+# "sindresorhus/pure"
