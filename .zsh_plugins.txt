@@ -7,6 +7,7 @@ MichaelAquilina/zsh-you-should-use
 zsh-users/zsh-syntax-highlighting
 zsh-users/zsh-history-substring-search
 zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
 
 # ohmyzsh
 robbyrussell/oh-my-zsh path:plugins/common-aliases
